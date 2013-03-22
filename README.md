@@ -1,4 +1,4 @@
-# text
+# aurl
 
 A [RequireJS](http://requirejs.org)/AMD loader plugin for accessing the absolute url of a specified file regardless
 whether it's defined via a relative path.
